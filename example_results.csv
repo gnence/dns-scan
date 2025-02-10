@@ -1,0 +1,12 @@
+Domain,Port,State,Service
+example.com,80,open,http
+example.com,443,open,https
+example.com,25,open,smtp
+google.com,443,open,https
+google.com,80,open,http
+yahoo.com,443,open,https
+testphp.vulnweb.com,80,open,http
+testphp.vulnweb.com,25,open,smtp
+scanme.nmap.org,25,open,smtp
+scanme.nmap.org,80,open,http
+scanme.nmap.org,22,open,ssh
